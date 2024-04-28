@@ -1,0 +1,14 @@
+{
+  "name": "trabalhofinal",
+  "version": "1.0.0",
+  "description": "Trabalho Final PGATS disciplina de Programacao para automacao de testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Gentil, Gelson",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
